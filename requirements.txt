@@ -3,3 +3,8 @@ requests
 python-dotenv
 flask
 groq
+streamlit
+os
+pygame
+dotenv
+SpeechRecognition
