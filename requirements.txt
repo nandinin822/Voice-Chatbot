@@ -3,8 +3,7 @@ requests
 python-dotenv
 flask
 groq
-streamlit
-os
+streamlit==1.37.0
 pygame
 dotenv
 SpeechRecognition
