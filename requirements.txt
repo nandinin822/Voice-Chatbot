@@ -1,6 +1,6 @@
 deepgram-sdk
 requests
-python-dotenv
+dotenv
 flask
 groq
 streamlit==1.37.0
