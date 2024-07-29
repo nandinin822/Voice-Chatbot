@@ -5,5 +5,5 @@ flask
 groq
 streamlit==1.37.0
 pygame
-dotenv
+
 SpeechRecognition
