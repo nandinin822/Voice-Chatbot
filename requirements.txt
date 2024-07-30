@@ -6,4 +6,4 @@ groq
 streamlit==1.37.0
 pygame
 SpeechRecognition
-pyaudio
+PyAudio==0.2.14
