@@ -1,4 +1,4 @@
-deepgram-sdk
+ddeepgram-sdk
 requests
 python-dotenv==1.0.1
 flask
@@ -6,3 +6,4 @@ groq
 streamlit==1.37.0
 pygame
 SpeechRecognition
+pyaudio
