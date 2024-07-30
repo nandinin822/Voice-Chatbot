@@ -7,4 +7,4 @@ streamlit==1.37.0
 pygame
 SpeechRecognition
 PyAudio==0.2.14
-portaudio19-dev
+
