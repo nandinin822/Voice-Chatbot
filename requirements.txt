@@ -1,10 +1,8 @@
-deepgram-sdk
-requests
+deepgram-sdk==3.4.0
+requests==2.31.0
 python-dotenv==1.0.1
-flask
-groq
-streamlit==1.37.0
-pygame
-SpeechRecognition
-PyAudio==0.2.14
-
+groq==0.4.1
+streamlit==1.29.0
+pygame==2.5.2
+SpeechRecognition==3.10.4
+Flask==3.0.3
