@@ -1,4 +1,4 @@
-ddeepgram-sdk
+deepgram-sdk
 requests
 python-dotenv==1.0.1
 flask
